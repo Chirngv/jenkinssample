@@ -1,0 +1,10 @@
+notes
+
+
+keyup
+keyup.enter
+keyup.space
+keydown
+blue event
+mouseover
+mousein
